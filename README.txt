@@ -1,3 +1,6 @@
+This project is an AI that plays checkers utilizing Alpha-beta pruning search algorithm. 
+
+_________________________________________________________________________________________________________
 The program checkers_final.py must be run with python3 (preferably python3.6+)
 
 The library copy must be installed, run the following command:
